@@ -27,6 +27,3 @@ If this Privacy Policy is updated, the revised version will be posted here with 
 ### 6. Contact
 For any questions regarding this Privacy Policy or data privacy inquiries, please contact the developer via email at:
 nicklas.fagerhierta@fagerhiertaconsulting.com
-### 6. Contact
-For any questions regarding this Privacy Policy or data privacy inquiries, please contact the developer via email at:
-contact@fagerhiertaconsulting.com
